@@ -1,7 +1,7 @@
 def speak_to_grandma("I love you grandma")
-if speak_to_grandma == "grandma".upcase
-  puts "I LOVE YOU TOO PUMPKIN!"
-elsif speak_to_grandma == "grandma"
+if speak_to_grandma == "#{I love you grandma}".upcase
+ puts "I LOVE YOU TOO PUMPKIN!"
+elsif speak_to_grandma == "#{I love you grandma}
   puts "HUH?! SPEAK UP, SONNY!"
 elsif speak_to_grandma == "grandma"
   puts "HUH?! SPEAK UP, SONNY!"
